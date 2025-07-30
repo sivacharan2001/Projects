@@ -5,5 +5,8 @@ structlog
 faiss-cpu
 PyMuPDF
 ipykernel
+pyyaml
+langchain_groq
+langchain_google_genai
 
 -e .
